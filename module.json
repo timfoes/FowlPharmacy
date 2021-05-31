@@ -14,7 +14,8 @@
 			"entity": "Item",
 			"module": "FowlPharmacy"
 			}
-],
+],	
+	"manifest": "https://github.com/timfoes/fowl-pharmacy/module.json"
 	"download": "https://github.com/timfoes/fowl-pharmacy/archive/main.zip"
  }
  
