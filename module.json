@@ -16,7 +16,7 @@
 			}
 ],
 	
-  	"manifest": "https://github.com/timfoes/fowl-pharmacy/archive/module.json",
+  	"manifest": "https://github.com/timfoes/fowl-pharmacy/main/module.json",
 	"download": "https://github.com/timfoes/fowl-pharmacy/archive/main.zip"
  }
  
